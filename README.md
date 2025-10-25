@@ -14,6 +14,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Staggs-hertz?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/Staggs-hertz?affiliations=OWNER&style=social)
 
+
 ---
 
 ### 🌱 About Me
@@ -24,3 +25,18 @@
 - 🤝 I enjoy learning collaboratively and sharing knowledge with other developers.  
 - ⚡ Fun fact: I love automating repetitive tasks and experimenting with new tools.
 
+---
+
+### 🛠️ Languages and Tools
+
+#### 🖥️ Frontend
+![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react)
+
+#### ⚙️ Backend
+![Backend](https://skillicons.dev/icons?i=nodejs,express)
+
+#### 🗄️ Database
+![Database](https://skillicons.dev/icons?i=postgres)
+
+#### 🧰 Tools & Others
+![Tools](https://skillicons.dev/icons?i=git,github,vscode)

@@ -40,3 +40,12 @@
 
 #### 🧰 Tools & Others
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
+
+---
+
+### 📊 GitHub Stats
+
+![Samuel’s GitHub stats](https://github-readme-stats.vercel.app/api?username=Staggs-hertz&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Staggs-hertz&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Staggs-hertz&theme=radical)
+

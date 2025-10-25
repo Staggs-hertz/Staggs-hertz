@@ -6,3 +6,12 @@
 
 ⭐ I believe in learning by doing — one project at a time.
 
+---
+
+### 🧠 Quick Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=Staggs-hertz&color=blue)
+![GitHub Followers](https://img.shields.io/github/followers/Staggs-hertz?label=Followers&style=social)
+![GitHub Stars](https://img.shields.io/github/stars/Staggs-hertz?affiliations=OWNER&style=social)
+
+

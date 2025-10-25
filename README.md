@@ -33,7 +33,7 @@
 ![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,jquery,react)
 
 #### ⚙️ Backend
-![Backend](https://skillicons.dev/icons?i=nodejs,express)
+![Backend](https://skillicons.dev/icons?i=nodejs,express,ejs)
 
 #### 🗄️ Database
 ![Database](https://skillicons.dev/icons?i=postgres)
@@ -49,3 +49,22 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Staggs-hertz&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Staggs-hertz&theme=radical)
 
+---
+
+### 🤝 Connect with me
+
+<p align="left">
+  <a href="https://linkedin.com/in/sam-ogwuche" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:samogwuche98@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/Staggs-hertz" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">✨ “Code. Learn. Evolve.” ✨</p>

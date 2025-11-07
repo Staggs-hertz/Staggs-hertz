@@ -42,6 +42,11 @@
 #### 🗄️ Database
 ![Database](https://skillicons.dev/icons?i=postgres)
 
+#### 🔗 API & Protocols
+- RESTful API (GET, POST, PATCH, DELETE)
+- JSON handling
+- HTTP request/response design
+
 #### 🧰 Tools & Others
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode)
 

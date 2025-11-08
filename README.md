@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Ogwuche Samuel (Staggs)</h1>
+<h1 align="center">👋 Hey there, I'm Ogwuche Samuel</h1>
 <h3 align="center">A passionate full-stack developer in training from Nigeria 🇳🇬</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C7FF&width=435&lines=Computer+Science+student;Full-stack+developer+in+training;Lifelong+learner+and+problem-solver;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
